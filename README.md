@@ -1,6 +1,6 @@
-# React + Vite
+# ToDo List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple Todo List app which is built using React. User can add list of tasks that he/she needs to perform and can check the checkbox after every task completion.
 
 Currently, two official plugins are available:
 
